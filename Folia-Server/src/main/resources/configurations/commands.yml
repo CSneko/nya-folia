@@ -1,0 +1,18 @@
+# 这是 Bukkit 的命令配置文件。
+# 有关如何使用此文件的文档，请查看 Bukkit Wiki：
+# https://www.spigotmc.org/go/commands-yml
+#
+# 如果您需要有关此文件的帮助，请随时加入我们的 Discord 或留言
+# 在论坛上寻求建议。
+#
+# Discord：https://www.spigotmc.org/go/discord
+# 论坛：https://www.spigotmc.org/
+# 错误跟踪器：https://www.spigotmc.org/go/bugs
+
+command-block-overrides: []
+ignore-vanilla-permissions: false
+#这里是命令别名设置，你可以在这里给服务器的命令添加别名
+aliases:
+  #这是一个示例，为/icanhasbukkit添加了别名/version，通过执行/version能实现和/icanhasbukkit一样的效果
+    icanhasbukkit:
+      - "version $1-"
