@@ -2,6 +2,11 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Folia-API/dev.folia.folia.folia-api.main.iml" filepath="$PROJECT_DIR$/.idea/modules/Folia-API/dev.folia.folia.folia-api.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Folia-API/dev.folia.folia.folia-api.test.iml" filepath="$PROJECT_DIR$/.idea/modules/Folia-API/dev.folia.folia.folia-api.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Folia-Server/dev.folia.folia.folia-server.log4jPlugins.iml" filepath="$PROJECT_DIR$/.idea/modules/Folia-Server/dev.folia.folia.folia-server.log4jPlugins.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Folia-Server/dev.folia.folia.folia-server.main.iml" filepath="$PROJECT_DIR$/.idea/modules/Folia-Server/dev.folia.folia.folia-server.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Folia-Server/dev.folia.folia.folia-server.test.iml" filepath="$PROJECT_DIR$/.idea/modules/Folia-Server/dev.folia.folia.folia-server.test.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/Folia-API/folia.folia-api.main.iml" filepath="$PROJECT_DIR$/.idea/modules/Folia-API/folia.folia-api.main.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/Folia-API/folia.folia-api.test.iml" filepath="$PROJECT_DIR$/.idea/modules/Folia-API/folia.folia-api.test.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/Folia-Server/folia.folia-server.log4jPlugins.iml" filepath="$PROJECT_DIR$/.idea/modules/Folia-Server/folia.folia-server.log4jPlugins.iml" />
